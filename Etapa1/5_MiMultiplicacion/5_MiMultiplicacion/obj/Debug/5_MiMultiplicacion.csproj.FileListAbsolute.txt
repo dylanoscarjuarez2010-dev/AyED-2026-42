@@ -4,3 +4,9 @@ C:\Users\Lab AyED\Documents\11_Juarez_V\Etapa0\5_MiMultiplicacion\5_MiMultiplica
 C:\Users\Lab AyED\Documents\11_Juarez_V\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.csprojResolveAssemblyReference.cache
 C:\Users\Lab AyED\Documents\11_Juarez_V\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.exe
 C:\Users\Lab AyED\Documents\11_Juarez_V\Etapa0\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.pdb
+C:\Users\Lab AyED\Documents\11_Juarez_Mie\AyED-2026-42\Etapa1\5_MiMultiplicacion\5_MiMultiplicacion\bin\Debug\5_MiMultiplicacion.exe.config
+C:\Users\Lab AyED\Documents\11_Juarez_Mie\AyED-2026-42\Etapa1\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\11_Juarez_Mie\AyED-2026-42\Etapa1\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.pdb
+C:\Users\Lab AyED\Documents\11_Juarez_Mie\AyED-2026-42\Etapa1\5_MiMultiplicacion\5_MiMultiplicacion\bin\Debug\5_MiMultiplicacion.exe
+C:\Users\Lab AyED\Documents\11_Juarez_Mie\AyED-2026-42\Etapa1\5_MiMultiplicacion\5_MiMultiplicacion\bin\Debug\5_MiMultiplicacion.pdb
+C:\Users\Lab AyED\Documents\11_Juarez_Mie\AyED-2026-42\Etapa1\5_MiMultiplicacion\5_MiMultiplicacion\obj\Debug\5_MiMultiplicacion.csprojResolveAssemblyReference.cache
