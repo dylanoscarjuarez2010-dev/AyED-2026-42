@@ -14,7 +14,7 @@ namespace _0_cagandoedades
             Console.WriteLine("Ingrese una edad para cada estudiante");
             for (int i = 0; i < edades.Length; i++)
             {
-                Console.WriteLine("ingrese valor " + (i+1));
+                Console.WriteLine("ingrese valor " + (i + 1));
                 edades[i] = int.Parse(Console.ReadLine());
             }
             Console.WriteLine("Las edades de los estudiantes son: ");
