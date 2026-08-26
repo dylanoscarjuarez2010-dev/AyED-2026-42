@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C4F1C07D-825D-4563-A5B3-594E19D9B3EC}</ProjectGuid>
+    <ProjectGuid>{42F6377F-8679-46DD-9AD9-2D2957230A5C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_2___Calculando</RootNamespace>
-    <AssemblyName>2 - Calculando</AssemblyName>
+    <RootNamespace>_3___El_EterNota</RootNamespace>
+    <AssemblyName>3 - El EterNota</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

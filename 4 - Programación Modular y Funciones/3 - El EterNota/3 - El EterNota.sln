@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2 - Calculando", "2 - Calculando\2 - Calculando.csproj", "{C4F1C07D-825D-4563-A5B3-594E19D9B3EC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3 - El EterNota", "3 - El EterNota\3 - El EterNota.csproj", "{42F6377F-8679-46DD-9AD9-2D2957230A5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{C4F1C07D-825D-4563-A5B3-594E19D9B3EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C4F1C07D-825D-4563-A5B3-594E19D9B3EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C4F1C07D-825D-4563-A5B3-594E19D9B3EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C4F1C07D-825D-4563-A5B3-594E19D9B3EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42F6377F-8679-46DD-9AD9-2D2957230A5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42F6377F-8679-46DD-9AD9-2D2957230A5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42F6377F-8679-46DD-9AD9-2D2957230A5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42F6377F-8679-46DD-9AD9-2D2957230A5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
